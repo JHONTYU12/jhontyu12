@@ -60,9 +60,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="700" src="https://i.imgur.com/Disk8Pb.jpeg"  />
-</div>
 
 ###
 <img src="https://github.com/JHONTYU12/jhontyu12/blob/output/snake.svg" alt="Snake animation" />
