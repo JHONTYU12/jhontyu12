@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JHONTYU12/jhontyu/snake.svg" alt="Snake animation" />
+<img src="https://githubusercontent.com/JHONTYU12/jhontyu/snake.svg" alt="Snake animation" />
 
 ###
