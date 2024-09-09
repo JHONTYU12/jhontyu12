@@ -65,6 +65,6 @@
 </div>
 
 ###
-<img src="https://githubusercontent.com/JHONTYU12/jhontyu/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/JHONTYU12/jhontyu12/blob/main/snake.svg" alt="Snake animation" />
 
 ###
