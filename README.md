@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h3 align="center">Hi 👋! My name is Josue and I'm a 👨‍💻 Software Developer, from 🇪🇨 Ecuador</h3>
+<h2 align="center">Hi 👋! My name is Josue and I'm a 👨‍💻 Software Developer, from 🇪🇨 Ecuador</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">< Hello World ></p>
 
 ###
 
@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:peraltajosue111@gmail.com" target="_blank">
+  <a href="peraltajosue111@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/josue-peralta-02424b276/" target="_blank">
@@ -60,8 +60,22 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/JHONTYU12/JHONTYU12/output/snake.svg" alt="Snake animation" />
 
 ###
-<img src="https://github.com/JHONTYU12/jhontyu12/blob/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/josuepte">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=josuepte&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="left" src="https://profile-counter.glitch.me/JHONTYU12/count.svg?"  />
 
 ###
